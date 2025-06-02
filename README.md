@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Virus55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔌 Embedded Systems Developer | 🔐 Hardware Pentester | 🧠 Freelance Engineer
 
-<!---
-Virus55/Virus55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skilled in: AVR, ESP8266/ESP32, Arduino, and bare-metal microcontroller coding  
+⚡ Building custom SMD PCBs, Linux-ready boards & hardware for scripting and control  
+🔒 Focused on secure hardware design, ethical hacking tools, and IoT penetration testing  
+📡 Experience with bus protocols: I2C, SPI, UART & system-level debugging
+
+🛠️ Open to collaboration on:
+• Custom embedded boards
+• Cybersecurity training hardware
+• IoT automation & control systems
+
+📬 Contact: yourmail@example.com
